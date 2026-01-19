@@ -13,4 +13,4 @@
 
 5) List of guidelines' supporting research: [supporting-research.pdf](supporting-research.pdf)
 
-6) Starting datataset: [starting-dataset](starting-dataset.csv)
+6) Initial datataset: [starting-dataset](starting-dataset.csv)
